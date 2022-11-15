@@ -1,0 +1,17 @@
+.Video-game-image {
+    width: 400px;
+    border-radius: 410px;
+    border-style: groove;
+    border-color: aqua;
+    float:right;
+}
+
+
+body{ 
+    cursor: url('../images/iconmonstr-gamepad-8.svg'), auto;
+    font-size: 18px;
+    font-style: oblique;
+    color:aliceblue;
+    height: 100vh;
+   
+}
